@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "ImgLib2 and BigDataViewer landing page",
+    "section": "",
+    "text": "This is the joint landing page for the open source software projects ImgLib2 and BigDataViewer.\n \n  \n   \n  \n    \n     Email\n  \n  \n    \n     GitHub\n  \n  \n    \n     Tutorials"
+  },
+  {
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am currently writing A Progressive some text."
+  },
+  {
+    "objectID": "blog.html#some-header",
+    "href": "blog.html#some-header",
+    "title": "Teaching",
+    "section": "",
+    "text": "I am currently writing A Progressive some text."
+  }
+]
